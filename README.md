@@ -49,47 +49,37 @@ Constantly exploring new technologies to improve my skill set and contribute to 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="60" height="60"/>
 </p>
 
----
-
-<h2 align="center">📜 Certifications</h2>
-
-<p align="justify">
-✔️ <b>Azure AI Engineer Associate</b> - Microsoft  
-✔️ <b>AWS Certified Solutions Architect</b> - Amazon Web Services  
-✔️ <b>Google Data Analytics Professional Certificate</b> - Google  
-✔️ <b>TensorFlow Developer Certificate</b> - TensorFlow  
-</p>
-
----
-
-<h2 align="center">📂 Notable Projects</h2>
-
-### <h3 align="center">VOCA Health</h3>  
-<p align="justify">📱 Architected an iOS app with **Auth & NoSQL databases**, improving **data retrieval by 40%**.</p>  
-<p align="justify">🎨 Built **8+ views in Swift (UIKit)** for an enhanced user experience.</p>  
-
-### <h3 align="center">Predictive Modeling of Soccer Player Performance</h3>  
-<p align="justify">⚽ Scraped **600+ player records** from **FBref**, improving analysis efficiency by **30%**.</p>  
-<p align="justify">📊 Built models with **Random Forest & KMeans Clustering**, increasing accuracy by **20%**.</p>  
-
----
-
-<h2 align="center">📬 Get in Touch</h2>  
-
+### <h3 align="center">Data Science</h3>  
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20" width="150"/>
-  </a>
-  <a href="https://medium.com/@ashwinshan2001">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=20" width="150"/>
-  </a>
-  <a href="https://leetcode.com/19_ashwin">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border-radius=20" width="150"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Tableau_Logo.png" alt="Tableau" width="80" height="60"/>
+  <img src="https://orange.biolab.si/dist/images/orange_logo.svg" alt="Orange" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/LLM_Logo.svg" alt="Large Language Models" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg" alt="PySpark" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
 </p>
 
+### <h3 align="center">Machine Learning</h3>  
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a> |
-  <a href="https://medium.com/@ashwinshan2001">Medium Blog</a> |
-  <a href="https://leetcode.com/19_ashwin">LeetCode Profile</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Computer_Vision.svg" alt="Computer Vision" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/NLP_Logo.svg" alt="NLP" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Azure_OpenAI.svg" alt="Azure OpenAI" width="60" height="60"/>
 </p>
+
+### <h3 align="center">Other Tools</h3>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Logo.svg" alt="Slack" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="60" height="60"/>
+</p>
+
+---
+
+🚀 **This is your final, structured, and polished GitHub README!**  
+Your Tech Stack **always has six sections now!** 🎯 Let me know if you need any more refinements! 🚀
