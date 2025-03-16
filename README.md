@@ -67,27 +67,27 @@ I’m on the lookout for exciting summer internship opportunities in Software De
 <h2 align="center">📬 Get in Touch</h2>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/yourprofile"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #0A66C2; font-family: 'Segoe UI', sans-serif;"/> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #0A66C2; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="https://medium.com/@ashwinshan2001"> 
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #12100E; font-family: 'Segoe UI', sans-serif;"/> 
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #12100E; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="https://leetcode.com/19_ashwin"> 
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #FFA116; font-family: 'Segoe UI', sans-serif;"/> 
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #FFA116; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
 </p>
 <p align="center">
   <a href="mailto:ashwinshan2001@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #EA4335; font-family: 'Segoe UI', sans-serif;"/> 
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #EA4335; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://x.com/mt_twitter_acc"> 
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #000000; font-family: 'Segoe UI', sans-serif;"/> 
+  <a href="https://twitter.com/mt_twitter_acc"> 
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #1DA1F2; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="https://discord.com/users/your_discord_id"> 
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #5865F2; font-family: 'Segoe UI', sans-serif;"/> 
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #5865F2; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
 </p>
