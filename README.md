@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashwin</h1>
+<h1 align="center">Hi, I'm Ashwin 👋</h1>
 <h3 align="center">MSIM Grad @ UIUC | Software Developer | Data Engineering & Data Science Enthusiast</h3>
 
 ---
@@ -18,7 +18,7 @@
 🚀 I’m on the lookout for exciting summer internship opportunities in Software Development, Data Engineering, or Data Science. 
   <br>
   <br>
-👋 If you want to chat about tech, my experiences, soccer (I’m a big Manchester City FC fan), music (I’m a musician), or pretty much anything under the sun, feel free to send me a "Hi"! Let’s talk!
+👋 If you want to chat about tech opportunities, my experiences, soccer (I’m a big Manchester City FC fan), music (I’m a musician), or pretty much anything under the sun, feel free to send me a "Hi"! Let’s talk!
 </p>
 
 ---
