@@ -54,7 +54,7 @@ Constantly exploring new technologies to improve my skill set and contribute to 
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://agnieszka.si/img/portfolio/orange-2023/orange-2023-cover-white.png" alt="Orange" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://yt3.googleusercontent.com/zGuOSnJjoKKaYEVi2GJ07SJfheg60N1UlmSu5xpOxKR5T9dOnerR15A_TMp_V_WhBB8PPw9KE8A=s160-c-k-c0x00ffffff-no-rj" alt="Orange" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
