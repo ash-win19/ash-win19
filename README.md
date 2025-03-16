@@ -78,3 +78,16 @@ I’m on the lookout for exciting summer internship opportunities in Software De
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #FFA116; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
 </p>
+<p align="center">
+  <a href="mailto:ashwinshan2001@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #EA4335; font-family: 'Segoe UI', sans-serif;"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://x.com/AshwinShanmugam"> 
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #1DA1F2; font-family: 'Segoe UI', sans-serif;"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://discord.com/users/your_discord_id"> 
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #5865F2; font-family: 'Segoe UI', sans-serif;"/> 
+  </a> 
+</p>
