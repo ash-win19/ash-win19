@@ -3,7 +3,7 @@
 
 ---
 
-<h2 align="center">💡 About Me</h2>
+<h2 align="center">💡 About and a Little More About Me</h2>
 
 <p align="justify">
 I am a passionate <b>Software Developer</b> with a keen interest in <b>Web Development, Data Science, and Machine Learning</b>.  
@@ -13,7 +13,7 @@ Constantly exploring new technologies to improve my skill set and contribute to 
 
 ---
 
-<h2 align="center">🛠 Tech Stack & Skills</h2>
+<h2 align="center">🛠 Skills</h2>
 
 ### <h3 align="center">Languages</h3>  
 <p align="center">
