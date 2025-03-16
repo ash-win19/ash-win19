@@ -84,7 +84,7 @@ I’m on the lookout for exciting summer internship opportunities in Software De
   </a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="https://x.com/mt_twitter_acc"> 
-    <img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=x&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #000000; font-family: 'Segoe UI', sans-serif;"/> 
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #000000; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="https://discord.com/users/your_discord_id"> 
