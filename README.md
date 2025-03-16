@@ -48,7 +48,7 @@ Constantly exploring new technologies to improve my skill set and contribute to 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="Firebase" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="60" height="60"/>
 </p>
 
 ### <h3 align="center">Data Science & Machine Learning</h3>  
