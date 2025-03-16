@@ -53,7 +53,7 @@ Constantly exploring new technologies to improve my skill set and contribute to 
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://orangedatamining.com/images/orange_logo_hq.png" alt="Orange" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="[https://orangedatamining.com/images/orange_logo_hq.png](https://brandfetch.com/orangedatamining.com?view=library&library=default&collection=logos&asset=idinZClK9w&utm_source=https%253A%252F%252Fbrandfetch.com%252Forangedatamining.com&utm_medium=copyAction&utm_campaign=brandPageReferral)" alt="Orange" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/LLM_Logo.svg" alt="Large Language Models" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
@@ -68,15 +68,5 @@ Constantly exploring new technologies to improve my skill set and contribute to 
   <img src="https://www.svgrepo.com/show/374171/azure.svg" alt="Azure OpenAI" width="60" height="60"/>
 </p>
 
-### <h3 align="center">Other Tools</h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="60" height="60"/>
-</p>
 
 ---
