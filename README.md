@@ -7,10 +7,13 @@
 
 <p align="justify">
 🎓 I'm currently a grad student at UIUC, pursuing my MS in Information Management with a focus on Data Science & Analytics. 
+  <br>
 🖥️ By day (and sometimes night), I'm an iOS App Developer at Carle Illinois College of Medicine, where I worked on an app that analyzes voice disorders and provides diagnostic metrics. 
+  <br>
 🔬 Also, you can find me as a Graduate Research Assistant at the Adaptive Cognition and Interaction Design Lab at the iSchool (UIUC), where I developed an escape room game with JavaScript & Vite.
-
+<br>
 🚀 I’m on the lookout for exciting summer internship opportunities in Software Development, Data Engineering, or Data Science. 
+  <br>
 👋 If you want to chat about tech, my experiences, soccer (I’m a big Manchester City FC fan), music (I’m a musician), or pretty much anything under the sun, feel free to send me a "Hi"! Let’s talk!
 </p>
 
