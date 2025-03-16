@@ -68,18 +68,14 @@ I’m on the lookout for exciting summer internship opportunities in Software De
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20" width="150"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40" style="border-radius:10px; box-shadow: 0 0 10px #0A66C2; font-family: 'Segoe UI', sans-serif;"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://medium.com/@ashwinshan2001">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=20" width="150"/>
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="130" height="40" style="border-radius:10px; box-shadow: 0 0 10px #12100E; font-family: 'Segoe UI', sans-serif;"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/19_ashwin">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border-radius=20" width="150"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="130" height="40" style="border-radius:10px; box-shadow: 0 0 10px #FFA116; font-family: 'Segoe UI', sans-serif;"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a> |
-  <a href="https://medium.com/@ashwinshan2001">Medium Blog</a> |
-  <a href="https://leetcode.com/19_ashwin">LeetCode Profile</a>
 </p>
