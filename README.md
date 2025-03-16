@@ -64,12 +64,22 @@ I’m on the lookout for exciting summer internship opportunities in Software De
 
 ---
 
-<h2 align="center">💡 About and a Little More About Me</h2>
+<h2 align="center">📬 Get in Touch</h2>
 
-<p align="justify">
-I'm currently a grad student at UIUC, pursuing my MS in Information Management with a focus on Data Science & Analytics. By day (and sometimes night), I'm an iOS App Developer at Carle Illinois College of Medicine, where I worked on an app that analyzes voice disorders and provides diagnostic metrics. ALso, you can find me as a Graduate Research Assistant at the Adaptive Cognition and Interaction Design Lab at the iSchool (UIUC), where I developed an escape room game with JavaScript & Vite.
-
-I’m on the lookout for exciting summer internship opportunities in Software Development, Data Engineering, or Data Science. If you want to chat about tech, my experiences, soccer (I’m a big Manchester City FC fan), music (I’m a musician), or pretty much anything under the sun, feel free to send me a "Hi"! Let’s talk!
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20" width="150"/>
+  </a>
+  <a href="https://medium.com/@ashwinshan2001">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=20" width="150"/>
+  </a>
+  <a href="https://leetcode.com/19_ashwin">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border-radius=20" width="150"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a> |
+  <a href="https://medium.com/@ashwinshan2001">Medium Blog</a> |
+  <a href="https://leetcode.com/19_ashwin">LeetCode Profile</a>
+</p>
