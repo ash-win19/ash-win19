@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Shanmugam</h1>
-<h3 align="center">Software Developer | Data Science Enthusiast | UI/UX Enthusiast</h3>
-
-📧 **Email:** ashwins7@illinois.edu  
-📍 **Location:** Champaign, IL, USA  
-
----
-
-## 📚 Education  
-🎓 **University of Illinois at Urbana-Champaign** *(May 2026)*  
-Master of Science in Information Management *(Data Science and Analytics)* | **GPA: 4.0/4.0**  
-📖 Courses: Data Statistical Models and Information, Data Warehousing & Business Intelligence, Methods of Data Science  
-
-🎓 **Sri Sivasubramaniya Nadar College of Engineering, Anna University** *(May 2022)*  
-Bachelor of Engineering in Electronics and Communication Engineering | **GPA: 8.526/10.0**  
-📖 Courses: OOPS, Data Structures & Algorithms, Computer Architecture, Web Development, Database Administration & Scaling  
+<h3 align="center">Software Developer | Data Science & Machine Learning Enthusiast</h3>
 
 ---
 
@@ -38,6 +24,7 @@ Bachelor of Engineering in Electronics and Communication Engineering | **GPA: 8.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Core" width="50" height="50"/>
 </p>
 
 ### **Cloud & DevOps**  
@@ -46,6 +33,8 @@ Bachelor of Engineering in Electronics and Communication Engineering | **GPA: 8.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" width="50" height="50"/>
 </p>
 
 ### **Databases**  
@@ -54,24 +43,36 @@ Bachelor of Engineering in Electronics and Communication Engineering | **GPA: 8.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="50" height="50"/>
 </p>
 
----
+### **Data Science**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg" alt="PySpark" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/>
+</p>
 
-## 💼 Work Experience  
+### **Machine Learning**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure OpenAI" width="50" height="50"/>
+</p>
 
-### **Software Developer (iOS) | Carle Illinois College of Medicine, UIUC** *(Jan 2025 - Present)*  
-- 📱 Developed an iOS healthcare app for voice disorder analysis, serving **500+ users**.  
-- 🚀 Deployed a cloud-based API with **FastAPI on Render**, handling **1,000+ audio requests**.  
-
-### **Lead Game Developer & Project Manager | Adaptive Cognition and Interaction Design Lab, UIUC** *(Jan 2025 - Present)*  
-- 🎮 Developed an **escape room game** with **JavaScript & Vite**, reducing **matchmaking latency by 35%**.  
-- 🏗 Built a **chat interface** for players, increasing engagement by **24%**.  
-
-### **Software Engineer | Deloitte** *(Aug 2022 - July 2024)*  
-- 🔹 Developed **50+ features** in a full-stack app using **.NET & Scaled Agile Framework**.  
-- 🚀 Built **45+ REST APIs** optimizing response time by **50 ms**.  
-- 📊 Improved engagement **40%** by designing a **Notifications Interface** for stakeholders.  
+### **Other Tools**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50" height="50"/>
+</p>
 
 ---
 
@@ -87,24 +88,7 @@ Bachelor of Engineering in Electronics and Communication Engineering | **GPA: 8.
 
 ---
 
-## 🎯 My Interests  
-💡 Web Development & UI/UX  
-🤖 Machine Learning & AI  
-🎮 Game Development  
-📊 Data Science & Visualization  
-
----
-
 ## 📬 Get in Touch  
-📧 **Email:** ashwins7@illinois.edu  
 🔗 **[LinkedIn](https://www.linkedin.com/in/yourprofile)**  
 📂 **[GitHub](https://github.com/ash-win19)**  
 🔢 **[LeetCode](https://leetcode.com/19_ashwin)**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ash-win19&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
