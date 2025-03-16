@@ -49,24 +49,15 @@ Constantly exploring new technologies to improve my skill set and contribute to 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="60" height="60"/>
 </p>
 
-### <h3 align="center">Data Science</h3>  
+### <h3 align="center">Data Science & Machine Learning</h3>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="[https://orangedatamining.com/images/orange_logo_hq.png](https://brandfetch.com/orangedatamining.com?view=library&library=default&collection=logos&asset=idinZClK9w&utm_source=https%253A%252F%252Fbrandfetch.com%252Forangedatamining.com&utm_medium=copyAction&utm_campaign=brandPageReferral)" alt="Orange" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/LLM_Logo.svg" alt="Large Language Models" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/id5u6Mq3NA/w/820/h/239/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Orange" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
-</p>
-
-### <h3 align="center">Machine Learning</h3>  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/372329/computer-vision.svg" alt="Computer Vision" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/NLP_Logo.svg" alt="NLP" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
   <img src="https://www.svgrepo.com/show/374171/azure.svg" alt="Azure OpenAI" width="60" height="60"/>
 </p>
-
-
 ---
