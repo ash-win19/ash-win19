@@ -59,5 +59,5 @@ Constantly exploring new technologies to improve my skill set and contribute to 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
-  <img src="[https://www.svgrepo.com/show/374171/azure.svg](https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000)" alt="Azure OpenAI" width="60" height="60"/>
+  <img src="https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000" alt="Azure OpenAI" width="60" height="60"/>
 </p>
