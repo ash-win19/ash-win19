@@ -65,17 +65,16 @@ I’m on the lookout for exciting summer internship opportunities in Software De
 ---
 
 <h2 align="center">📬 Get in Touch</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40" style="border-radius:10px; box-shadow: 0 0 10px #0A66C2; font-family: 'Segoe UI', sans-serif;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@ashwinshan2001">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="130" height="40" style="border-radius:10px; box-shadow: 0 0 10px #12100E; font-family: 'Segoe UI', sans-serif;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/19_ashwin">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="130" height="40" style="border-radius:10px; box-shadow: 0 0 10px #FFA116; font-family: 'Segoe UI', sans-serif;"/>
-  </a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/yourprofile"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #0A66C2; font-family: 'Segoe UI', sans-serif;"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://medium.com/@ashwinshan2001"> 
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #12100E; font-family: 'Segoe UI', sans-serif;"/> 
+  </a> 
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://leetcode.com/19_ashwin"> 
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" width="140" height="40" style="border-radius:10px; box-shadow: 0 0 10px #FFA116; font-family: 'Segoe UI', sans-serif;"/> 
+  </a> 
 </p>
