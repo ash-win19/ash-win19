@@ -35,19 +35,29 @@ Constantly exploring new technologies to improve my skill set and contribute to 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Node.js_logo.svg" alt="Node.js" width="100" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="60" height="60"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/dot-net-logo.png" alt=".NET" width="80" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite.js" width="60" height="60"/>
 </p>
 
-### <h3 align="center">Data Science</h3>  
+### <h3 align="center">Databases</h3>  
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Tableau_Logo.png" alt="Tableau" width="80" height="60"/>
-  <img src="https://orange.biolab.si/dist/images/orange_logo.svg" alt="Orange" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/LLM_Logo.svg" alt="Large Language Models" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyspark/pyspark-original.svg" alt="PySpark" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="60" height="60"/>
+</p>
+
+---
+
+<h2 align="center">📜 Certifications</h2>
+
+<p align="justify">
+✔️ <b>Azure AI Engineer Associate</b> - Microsoft  
+✔️ <b>AWS Certified Solutions Architect</b> - Amazon Web Services  
+✔️ <b>Google Data Analytics Professional Certificate</b> - Google  
+✔️ <b>TensorFlow Developer Certificate</b> - TensorFlow  
 </p>
 
 ---
@@ -70,8 +80,8 @@ Constantly exploring new technologies to improve my skill set and contribute to 
   <a href="https://www.linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=20" width="150"/>
   </a>
-  <a href="https://github.com/ash-win19">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border-radius=20" width="150"/>
+  <a href="https://medium.com/@ashwinshan2001">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&border-radius=20" width="150"/>
   </a>
   <a href="https://leetcode.com/19_ashwin">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&border-radius=20" width="150"/>
@@ -80,6 +90,6 @@ Constantly exploring new technologies to improve my skill set and contribute to 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a> |
-  <a href="https://github.com/ash-win19">GitHub Profile</a> |
+  <a href="https://medium.com/@ashwinshan2001">Medium Blog</a> |
   <a href="https://leetcode.com/19_ashwin">LeetCode Profile</a>
 </p>
