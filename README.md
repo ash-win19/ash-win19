@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Ashwin 👋</h1>
 <h3 align="center">MSIM Grad @ UIUC | Software Developer | Data Engineering & Data Science Enthusiast</h3>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ash-win19)
 
 ---
 
