@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Ashwin 👋</h1>
 <h3 align="center">MSIM Grad @ UIUC | Software Developer | Data Engineering & Data Science Enthusiast</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ash-win19&color=blue" alt="Profile Views" />
-</p>
 
 ---
 
@@ -103,4 +100,7 @@
   <a href="https://discord.com/users/1103550114078933102"> 
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="140" height="40" style="border-radius:8px; box-shadow: 0 0 8px #5865F2; font-family: 'Segoe UI', sans-serif;"/> 
   </a> 
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ash-win19&color=blue" alt="Profile Views" />
 </p>
